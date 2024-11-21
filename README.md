@@ -43,7 +43,7 @@
 
 * **Ginie Digital Pvt. Ltd.** (Full-Stack Intern)
     * 2022 February - 2022 June
-    * Developed a Full Stack  for internal users using a Js Framework .
+    * Developed a Full Stack App for internal users using a Js Framework .
     * Built a robust data pipeline using Python and Pandas.
 
 **Projects**
