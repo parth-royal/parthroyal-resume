@@ -48,10 +48,11 @@
 
 **Projects**
 
-* **Personal Portfolio Website**
-    * Developed a portfolio website using HTML, CSS, and JavaScript.
-* **Bootstrap Portfolio Website**
-    * Remade the portfolio website using Tailwind.css.
+* **Business Landing Page Website
+   *Developed a Landing website using NextJS SSG.
+
+
+
 
 
 
