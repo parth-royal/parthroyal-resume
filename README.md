@@ -81,6 +81,6 @@
 
 **Links**
 
-* [Portfolio Website](https://parthroyale.github.io/parthroyale/)
-* [GitHub Profile](https://github.com/parthroyale)
+* [Portfolio Website](https://parth-royal.github.io/parth-royal/)
+* [GitHub Profile](https://github.com/parth-royal)
 * [YouTube Channel](https://www.youtube.com/@skillforgecloud)
